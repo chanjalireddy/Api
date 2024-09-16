@@ -1,0 +1,556 @@
+ {
+    "data": [
+        {
+            "rollno": "22471A05E1",
+            "name": "ADHIKARI SATISH",
+            "phoneno": " 7674846745",
+            "fphone": "9866361227",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097331/CSE22Batch/CSE22BatchCSection/gxxxtq7f9vv5qcewe5lp.jpg"
+        },
+        {
+            "rollno": "22471A05E2",
+            "name": "ADI LAKSHMI THOGATI",
+            "phoneno": " 9490598492",
+            "fphone": " 8897362386",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097332/CSE22Batch/CSE22BatchCSection/huspmmrlrry2dqavqw3v.jpg"
+        },
+        {
+            "rollno": "22471A05E3",
+            "name": "ALAJANGI KEERTHI SREE",
+            "phoneno": "9885436155",
+            "fphone": "8639958444",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097332/CSE22Batch/CSE22BatchCSection/beubnpp0gbwpoi0hqb9d.jpg"
+        },
+        {
+            "rollno": "22471A05E4",
+            "name": "AMIREDDY NAVYA",
+            "phoneno": "9989866580",
+            "fphone": "8519963801",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097332/CSE22Batch/CSE22BatchCSection/cn8qxozthelkeymybkho.jpg"
+        },
+        {
+            "rollno": "22471A05E5",
+            "name": "ATTULURI PAVANA PRUDULA SRI",
+            "phoneno": "9346556274",
+            "fphone": " 9573293043",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097333/CSE22Batch/CSE22BatchCSection/bxj8gt3ns1nfbtqvh2xz.jpg"
+        },
+        {
+            "rollno": "22471A05E6",
+            "name": "BADIGUNCHALA PUSHPA SIVALEELAVATHI",
+            "phoneno": "7680882158",
+            "fphone": " 7997135602",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097333/CSE22Batch/CSE22BatchCSection/dh4uraem4najdrsgkxqa.jpg"
+        },
+        {
+            "rollno": "22471A05E7",
+            "name": "BHUMIREDDY SAILAJA",
+            "phoneno": "",
+            "fphone": " 9177969612",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097333/CSE22Batch/CSE22BatchCSection/z9nrsxoph27d7ncp63od.jpg"
+        },
+        {
+            "rollno": "22471A05E8",
+            "name": "BORIGARLA VENKATAGOPI",
+            "phoneno": " 9603872789",
+            "fphone": "9603872789",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097333/CSE22Batch/CSE22BatchCSection/rjfjhtj1m6xuwaychthk.jpg"
+        },
+        {
+            "rollno": "22471A05E9",
+            "name": "CHATTI NAVYA",
+            "phoneno": "8523833569",
+            "fphone": "8374033569",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097334/CSE22Batch/CSE22BatchCSection/sc90ovqdhsoatersvtgv.jpg"
+        },
+        {
+            "rollno": "22471A05F0",
+            "name": "DASARI SRUJANASANKEERTHI",
+            "phoneno": " 8019171033",
+            "fphone": "7569079945",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097334/CSE22Batch/CSE22BatchCSection/rjhwfsfsngnlpgpfvnkd.jpg"
+        },
+        {
+            "rollno": "22471A05F1",
+            "name": "DHANUSH JASWANTH TEJA IKKURTHI",
+            "phoneno": "9182049259",
+            "fphone": " 9959109884",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097335/CSE22Batch/CSE22BatchCSection/mazdt2ok9llc8sr07vht.jpg"
+        },
+        {
+            "rollno": "22471A05F2",
+            "name": "DOGIPARTHI VENKATA SAI GIRISH",
+            "phoneno": "8179936343",
+            "fphone": "9908706343",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097335/CSE22Batch/CSE22BatchCSection/arnryk1vqhwqcm51v7p8.jpg"
+        },
+        {
+            "rollno": "22471A05F3",
+            "name": "DUDDU DIVYA",
+            "phoneno": "7995420787",
+            "fphone": "9505520787",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097335/CSE22Batch/CSE22BatchCSection/yydljjgcopgkxc9oqnzx.jpg"
+        },
+        {
+            "rollno": "22471A05F4",
+            "name": "EERLAPATI LAKSHMAIAH",
+            "phoneno": "",
+            "fphone": " 9110567514",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097336/CSE22Batch/CSE22BatchCSection/rtmemsipc1aw7zfsntdf.jpg"
+        },
+        {
+            "rollno": "22471A05F5",
+            "name": "GAIRUBOINA NAVEEN KUMAR",
+            "phoneno": "9059109173",
+            "fphone": " 9908292054",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097336/CSE22Batch/CSE22BatchCSection/anpwwiow7q4lypgjwdkn.jpg"
+        },
+        {
+            "rollno": "22471A05F6",
+            "name": "GARIKAPATI AISHWARYA",
+            "phoneno": "9866627014",
+            "fphone": " 8328022600",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097336/CSE22Batch/CSE22BatchCSection/rjbmk1y58s5xle2vp6ot.jpg"
+        },
+        {
+            "rollno": "22471A05F7",
+            "name": "GUGGILAM CHINMAYEE",
+            "phoneno": "9493188004",
+            "fphone": " 9440768153",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097337/CSE22Batch/CSE22BatchCSection/vyjeenyrmyioxmr0iutg.jpg"
+        },
+        {
+            "rollno": "22471A05F8",
+            "name": "JALUKURI GOPI",
+            "phoneno": "7207024328",
+            "fphone": "8790899675",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097337/CSE22Batch/CSE22BatchCSection/sw4zc3v80k734cu70s8i.jpg"
+        },
+        {
+            "rollno": "22471A05F9",
+            "name": "JONNALAGADDA MAHESH BABU",
+            "phoneno": " 6304736234",
+            "fphone": " 7702297189",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097337/CSE22Batch/CSE22BatchCSection/nnblfdpzbtcxvmk3uigq.jpg"
+        },
+        {
+            "rollno": "22471A05G0",
+            "name": "KADAPA GANDHI KUMARI",
+            "phoneno": "7036063879",
+            "fphone": " 7330653879",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097338/CSE22Batch/CSE22BatchCSection/vqavntfqqxcilu6rrah8.jpg"
+        },
+        {
+            "rollno": "22471A05G1",
+            "name": "KATARI THANMAI",
+            "phoneno": " 9963031059",
+            "fphone": "7981705996",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097338/CSE22Batch/CSE22BatchCSection/jikm0p3afpynm1ybmfde.jpg"
+        },
+        {
+            "rollno": "22471A05G2",
+            "name": "KAVERI KOLLI",
+            "phoneno": "7730854578",
+            "fphone": "9949062370",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097339/CSE22Batch/CSE22BatchCSection/pw1iajx4o5xxpxlhxcrw.jpg"
+        },
+        {
+            "rollno": "22471A05G3",
+            "name": "KONDA PRATYUSHA",
+            "phoneno": "8309506077",
+            "fphone": "9704685489",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097339/CSE22Batch/CSE22BatchCSection/dhnpsvxlp9a6mpjhzpyz.jpg"
+        },
+        {
+            "rollno": "22471A05G5",
+            "name": "KOPPARAPU SIVA HEMANTH KUMAR",
+            "phoneno": "9701007035",
+            "fphone": "9014804399",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097340/CSE22Batch/CSE22BatchCSection/uzpursv7yfo5xbssnf9u.jpg"
+        },
+        {
+            "rollno": "22471A05G6",
+            "name": "KSHATRIYA JAYA LAKSHMI",
+            "phoneno": " 9014928958",
+            "fphone": "6281843943",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097340/CSE22Batch/CSE22BatchCSection/w1nt2wmtnghhg2smyway.jpg"
+        },
+        {
+            "rollno": "22471A05G7",
+            "name": "KURAPATI ANUSHA",
+            "phoneno": "7730983412",
+            "fphone": "9502415592",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097340/CSE22Batch/CSE22BatchCSection/cn0piqsj4nyhpzh6ckbe.jpg"
+        },
+        {
+            "rollno": "22471A05G8",
+            "name": "LAKSHMI SIVA SAI TULLIBILLI",
+            "phoneno": "9618034413",
+            "fphone": "7799635391",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097341/CSE22Batch/CSE22BatchCSection/ugw0jzvldg6aaco3a8le.jpg"
+        },
+        {
+            "rollno": "22471A05G9",
+            "name": "MAHAMKALI RAMADEVI",
+            "phoneno": "7671986957",
+            "fphone": "8106313231",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097341/CSE22Batch/CSE22BatchCSection/tgtiy5ivfdz9zvyx0l2r.jpg"
+        },
+        {
+            "rollno": "22471A05H0",
+            "name": "MAKKENA RAJESWARI",
+            "phoneno": " 6303200409",
+            "fphone": "9948429803",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097341/CSE22Batch/CSE22BatchCSection/c1x2r1jcmkxpgaacwpsb.jpg"
+        },
+        {
+            "rollno": "22471A05H1",
+            "name": "MALLELA JYOTHI",
+            "phoneno": "7288989080",
+            "fphone": "9989798957",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097342/CSE22Batch/CSE22BatchCSection/mymkl0ahhljv4iasqxru.jpg"
+        },
+        {
+            "rollno": "22471A05H2",
+            "name": "MALLELA MANIKANTA",
+            "phoneno": "8074724434",
+            "fphone": "8501944637",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097342/CSE22Batch/CSE22BatchCSection/c5rouliy35dsbruffurs.jpg"
+        },
+        {
+            "rollno": "22471A05H3",
+            "name": "MEDAM SIRISHA",
+            "phoneno": "7671092535",
+            "fphone": "9381358928",
+            "fname": "",
+            "image": ""
+        },
+        {
+            "rollno": "22471A05H4",
+            "name": "MEESALA SIVAIAH",
+            "phoneno": "9640339223",
+            "fphone": " 9849384253",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097343/CSE22Batch/CSE22BatchCSection/ahkn2gsbcafpftrh7a8s.jpg"
+        },
+        {
+            "rollno": "22471A05H5",
+            "name": "MOUNICA PULAGORLA",
+            "phoneno": "9347813886",
+            "fphone": "7981903689",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097343/CSE22Batch/CSE22BatchCSection/icbticl4nvrlosdhqemo.jpg"
+        },
+        {
+            "rollno": "22471A05H6",
+            "name": "MUNDLAMURI VIJAYA KUMARACHARI",
+            "phoneno": "7288040426",
+            "fphone": " 9666609103",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097344/CSE22Batch/CSE22BatchCSection/xzxlcupxhzfisviscbww.jpg"
+        },
+        {
+            "rollno": "22471A05H7",
+            "name": "NAGARAM PRASAD RAO",
+            "phoneno": "9440481134",
+            "fphone": "9885826635",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097344/CSE22Batch/CSE22BatchCSection/tzhsi2sbiyefjesrlafd.jpg"
+        },
+        {
+            "rollno": "22471A05H8",
+            "name": "NAKKA VIJAY BHASKAR REDDY",
+            "phoneno": "9347706001",
+            "fphone": "9704688782",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097345/CSE22Batch/CSE22BatchCSection/tygkcnayjyyhd99vcywg.jpg"
+        },
+        {
+            "rollno": "22471A05H9",
+            "name": "NALLAMOTHU VINAY",
+            "phoneno": " 9885013668",
+            "fphone": " 9441196172",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097345/CSE22Batch/CSE22BatchCSection/rgkmedtmrlizg2ujjoh7.jpg"
+        },
+        {
+            "rollno": "22471A05I0",
+            "name": "NAMBURI TEJA",
+            "phoneno": "9346235676",
+            "fphone": "9618619225",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097345/CSE22Batch/CSE22BatchCSection/ciohj53c8p2fjmxfzoi7.jpg"
+        },
+        {
+            "rollno": "22471A05I1",
+            "name": "PALLAPU HARISH",
+            "phoneno": "9492424686",
+            "fphone": "9701491446",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097346/CSE22Batch/CSE22BatchCSection/agpv4kah51ds4t25xnyw.jpg"
+        },
+        {
+            "rollno": "22471A05I2",
+            "name": "PALUTLA VENKATA NAVEEN",
+            "phoneno": "8247272418",
+            "fphone": "9550850611",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097347/CSE22Batch/CSE22BatchCSection/tnbgrrir82399en8slwc.jpg"
+        },
+        {
+            "rollno": "22471A05I3",
+            "name": "PANCHUMARTHI PRASANNA",
+            "phoneno": "9000504591",
+            "fphone": "9491152895",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097347/CSE22Batch/CSE22BatchCSection/nriw5nangoviyq5gml5r.jpg"
+        },
+        {
+            "rollno": "22471A05I4",
+            "name": "PEKALA VEERA DHANUSH KUMAR",
+            "phoneno": "9063620258",
+            "fphone": "8919304258",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097346/CSE22Batch/CSE22BatchCSection/qgikaljohzasf2wtelqq.jpg"
+        },
+        {
+            "rollno": "22471A05I5",
+            "name": "KUMBA CHANDRA SEKHAR",
+            "phoneno": "7093479860",
+            "fphone": "7702097629",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097346/CSE22Batch/CSE22BatchCSection/t6dwq5ttry93ml4yvsce.jpg"
+        },
+        {
+            "rollno": "22471A05I6",
+            "name": "SANIKOMMU NIRUPAM REDDY",
+            "phoneno": " 9014501104",
+            "fphone": " 9885774875",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097347/CSE22Batch/CSE22BatchCSection/bceaalppaafcyanfkfsc.jpg"
+        },
+        {
+            "rollno": "22471A05I7",
+            "name": "SATTENPALLI SADARANI",
+            "phoneno": "6303439306",
+            "fphone": "9989877347",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097349/CSE22Batch/CSE22BatchCSection/t5fcjsildskehbo790ez.jpg"
+        },
+        {
+            "rollno": "22471A05I8",
+            "name": "SEGGEM SRINIVAS",
+            "phoneno": " 8106408872",
+            "fphone": "9912164317",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097348/CSE22Batch/CSE22BatchCSection/x9tgkcj55z1e0kpm7jup.jpg"
+        },
+        {
+            "rollno": "22471A05I9",
+            "name": "SHAIK APSA",
+            "phoneno": "8341945484",
+            "fphone": "7093126568",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097348/CSE22Batch/CSE22BatchCSection/asymrk5hqojqaqtrnqqr.jpg"
+        },
+        {
+            "rollno": "22471A05J0",
+            "name": "SHAIK MOHAMMAD FAYAZ",
+            "phoneno": "9652543261",
+            "fphone": " 9908037989",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097348/CSE22Batch/CSE22BatchCSection/z19nzlrpkohootivqh26.jpg"
+        },
+        {
+            "rollno": "22471A05J1",
+            "name": "SHAIK MYNAMPATI SAIDA VALI",
+            "phoneno": "9347204459",
+            "fphone": " 9550157580",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097349/CSE22Batch/CSE22BatchCSection/gmtjhwbmuavbvm8ub06v.jpg"
+        },
+        {
+            "rollno": "22471A05J2",
+            "name": "SHAIK NAZEERA",
+            "phoneno": "6300376716",
+            "fphone": " 9703109824",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097349/CSE22Batch/CSE22BatchCSection/xvyfhf3m4tomcn5loqkw.jpg"
+        },
+        {
+            "rollno": "22471A05J3",
+            "name": "SHAIK RASHEED",
+            "phoneno": "9494046505",
+            "fphone": "9573428373",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097349/CSE22Batch/CSE22BatchCSection/sungediaoihb2cbnjqzi.jpg"
+        },
+        {
+            "rollno": "22471A05J4",
+            "name": "SHAIK SUMAYA",
+            "phoneno": "9885740169",
+            "fphone": "7569487948",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097349/CSE22Batch/CSE22BatchCSection/cdoplhsydrfemdn8tg3r.jpg"
+        },
+        {
+            "rollno": "22471A05J5",
+            "name": "SIRISHA PAGADALA",
+            "phoneno": "7680030673",
+            "fphone": "6300947586",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097350/CSE22Batch/CSE22BatchCSection/vkwcak0l7omjwveadq34.jpg"
+        },
+        {
+            "rollno": "22471A05J6",
+            "name": "SONTI VINEELA",
+            "phoneno": "9059607495",
+            "fphone": " 9441410533",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097350/CSE22Batch/CSE22BatchCSection/xwl1dz8mnnkxtstezgnd.jpg"
+        },
+        {
+            "rollno": "22471A05J7",
+            "name": "SOUDAGAR MIN HAZ",
+            "phoneno": "9515119734",
+            "fphone": " 8019332910",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097350/CSE22Batch/CSE22BatchCSection/ltn0s7a5p4dzoispsk3v.jpg"
+        },
+        {
+            "rollno": "22471A05J8",
+            "name": "SUNKARA HARINI",
+            "phoneno": " 8688531506",
+            "fphone": " 9581126272",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097351/CSE22Batch/CSE22BatchCSection/lipy4hlzwllqj1f30g5e.jpg"
+        },
+        {
+            "rollno": "22471A05J9",
+            "name": "SURA VENKATA SIVA NAGA LAKSHMI",
+            "phoneno": "8317548851",
+            "fphone": "9704342546",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097351/CSE22Batch/CSE22BatchCSection/hwnszuvxe2chv1m5smfg.jpg"
+        },
+        {
+            "rollno": "22471A05K0",
+            "name": "SYED SHAFIA ZAINAB",
+            "phoneno": "9704664638",
+            "fphone": "7075867385",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097351/CSE22Batch/CSE22BatchCSection/m6oh4nqakaphykbatm6e.jpg"
+        },
+        {
+            "rollno": "22471A05K1",
+            "name": "SYED TASNEEM BANU",
+            "phoneno": "9703579035",
+            "fphone": "9110366712",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097352/CSE22Batch/CSE22BatchCSection/bpioex1d8z4qc2vddmlq.jpg"
+        },
+        {
+            "rollno": "22471A05K2",
+            "name": "THANNERU VENKATA SIVA",
+            "phoneno": "8247632390",
+            "fphone": "6300298388",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097352/CSE22Batch/CSE22BatchCSection/gbwoytrkhpxk7m4rtul4.jpg"
+        },
+        {
+            "rollno": "22471A05K3",
+            "name": "TIPPANAPOINA RAMESH",
+            "phoneno": "7993742185",
+            "fphone": "9959658795",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097352/CSE22Batch/CSE22BatchCSection/eh61wx3mfxe3gc6grjw7.jpg"
+        },
+        {
+            "rollno": "22471A05K4",
+            "name": "VALIVARTHI ABHINAYASRI",
+            "phoneno": "6304686376",
+            "fphone": "8466934835",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097353/CSE22Batch/CSE22BatchCSection/us35sv5uhdcigzbkbpxy.jpg"
+        },
+        {
+            "rollno": "22471A05K5",
+            "name": "VATTIKUTI HEMANTH",
+            "phoneno": "6301436139",
+            "fphone": " 9010987798",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097353/CSE22Batch/CSE22BatchCSection/u1hkea2ihwjgflqsurlg.jpg"
+        },
+        {
+            "rollno": "22471A05K6",
+            "name": "VIPPARALA CHETAN",
+            "phoneno": "7989880790",
+            "fphone": " 9912261552",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097353/CSE22Batch/CSE22BatchCSection/ni4uhmdfeogiysfnvdll.jpg"
+        },
+        {
+            "rollno": "22471A05K7",
+            "name": "YADAVALLI KARTHIKA",
+            "phoneno": "7386423020",
+            "fphone": "9573423020",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097354/CSE22Batch/CSE22BatchCSection/n2njcn6pcsnjnfqpkziu.jpg"
+        },
+        {
+            "rollno": "22471A05K8",
+            "name": "YAGNAPRIYA PICHALA",
+            "phoneno": "7093980836",
+            "fphone": "8106707695",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097354/CSE22Batch/CSE22BatchCSection/bfrkxoj5w8wy2njsxywc.jpg"
+        },
+        {
+            "rollno": "22471A05K9",
+            "name": "YARRA JAKRAIAH KINNERA",
+            "phoneno": "9494468474",
+            "fphone": "7997799896",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097339/CSE22Batch/CSE22BatchCSection/d07zyjakgv4cgwc9rtug.jpg"
+        },
+        {
+            "rollno": "22471A05L0",
+            "name": "YEPURI TEJA NAGA ANIL KUMAR",
+            "phoneno": " 9381644372",
+            "fphone": "7981214757",
+            "fname": "",
+            "image": "https://res.cloudinary.com/dfl09yw03/image/upload/v1723097354/CSE22Batch/CSE22BatchCSection/h25dcfs41og6cu7tyht7.jpg"
+        }
+    ]
+}
